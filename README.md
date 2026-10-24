@@ -233,4 +233,4 @@ Dungeon Crawl Stone Soup is a full free version game with all features and updat
 Dive into the depths of adventure with Dungeon Crawl Stone Soup! Download it now and experience the excitement of classic roguelike gameplay!
 
 ---
-**Last updated:** 2026-10-23 21:49:58 UTC
+**Last updated:** 2026-10-24 00:14:16 UTC
